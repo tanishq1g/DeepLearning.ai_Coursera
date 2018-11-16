@@ -10,3 +10,4 @@ This repository contains all the work I will do for the Deep Learning specialisa
 ### Course 1: Neural Networks and Deep Learning
 * Week 1 Quiz : Introduction to Deep Learning 
 * Week 2 Quiz : Neural Network Basics
+* Week 2 Ass : Python Basics with Numpy
