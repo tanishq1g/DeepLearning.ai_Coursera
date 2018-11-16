@@ -14,3 +14,4 @@ This repository contains all the work I will do for the Deep Learning specialisa
 * Week 2 Ass : Logistic Regression with a Neural Network mindset
 * Week 3 Quiz : Shallow Neural Networks
 * Week 3 Ass : Planar Data Classification with one hidden layer
+* Week 4 Quiz : Key concepts on Deep Neural Networks
