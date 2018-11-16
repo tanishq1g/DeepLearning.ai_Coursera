@@ -15,3 +15,5 @@ This repository contains all the work I will do for the Deep Learning specialisa
 * Week 3 Quiz : Shallow Neural Networks
 * Week 3 Ass : Planar Data Classification with one hidden layer
 * Week 4 Quiz : Key concepts on Deep Neural Networks
+* week 4 Ass : Building your Deep Neural Network Step by Step
+* Week 4 Ass : Deep Neural Network Application
