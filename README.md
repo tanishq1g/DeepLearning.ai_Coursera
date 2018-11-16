@@ -11,3 +11,4 @@ This repository contains all the work I will do for the Deep Learning specialisa
 * Week 1 Quiz : Introduction to Deep Learning 
 * Week 2 Quiz : Neural Network Basics
 * Week 2 Ass : Python Basics with Numpy
+* Week 2 Ass : Logistic Regression with a Neural Network mindset
